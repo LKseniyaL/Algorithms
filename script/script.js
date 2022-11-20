@@ -30,7 +30,7 @@ arr(array);
     array2(arr2);
 
     // //space complexity O(1);
-    //  //time complexity O(log n);
+    //  //time complexity O(n);
 
 
 
